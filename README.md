@@ -3,5 +3,7 @@ This project aims to predict real-time traffic speeds and optimize vehicle route
 
 **Features**
 Traffic Speed Prediction: Utilizes Gradient Boosting to predict traffic speeds based on various features such as free flow speed, temperature, and weather conditions.
+
 Dynamic Route Optimization: Adjusts the distance matrix for Vehicle Routing Problems (VRPs) using the predicted traffic speeds, resulting in optimized delivery routes.
+
 Visualization: Provides visual comparisons between predicted and actual traffic speeds and the cost of routes before and after traffic adjustment.
